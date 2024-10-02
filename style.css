@@ -1,0 +1,19 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.innerBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    width: 300px;
+    margin-top: 10%;
+    padding: 5%;
+    border-radius: 10px;
+    text-align: center;
+}
