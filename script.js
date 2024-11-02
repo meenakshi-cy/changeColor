@@ -14,3 +14,4 @@ function changeColors(){
     document.getElementsByTagName("span")[0].innerHTML="#"+r[randomR1]+r[randomR2]+g[randomG1]+g[randomG2]+b[randomB1]+b[randomB2];
 }
 changeColors();
+// console.log("Meenakshi")
